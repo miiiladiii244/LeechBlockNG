@@ -227,7 +227,7 @@ function retrieveOptions(update) {
 		createRegExps();
 		refreshMenus();
 		refreshTicker();
-                // loadSiteLists();
+		// loadSiteLists();
 		updateIcon();
 
 		// Keep track of saved time data to avoid unnecessary writes
