@@ -112,8 +112,6 @@ function discardTime() {
 	window.close();
 }
 
-// Open online support page disabled for local-only version
-// function openOnlineSupport() {}
 
 document.querySelector("#options").addEventListener("click", openOptions);
 document.querySelector("#lockdown").addEventListener("click", openLockdown);
