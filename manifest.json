@@ -69,8 +69,6 @@
 
 	"description": "__MSG_extensionDescription__",
 
-	"homepage_url": "https://www.proginosko.com/leechblock/",
-
 	"host_permissions": [
 		"<all_urls>"
 	],

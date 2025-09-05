@@ -19,7 +19,7 @@ const ABSOLUTE_URL = /^[\w-]+:/;
 
 const INTERNAL_BLOCK_URL = /^(\w+\/)?(blocked|delayed|password)\.html\?\$S&\$U$/;
 
-const LEECHBLOCK_URL = "https://www.proginosko.com/leechblock/";
+// const LEECHBLOCK_URL = "";
 
 const U_WORD_CHAR = "[\\p{L}\\p{N}]";
 const U_WORD_CHARS0 = `${U_WORD_CHAR}*`;
